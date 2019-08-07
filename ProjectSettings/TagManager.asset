@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - positiivinen
+  - negatiivinen
+  - score
+  - lives
+  - manager
+  - cpm
+  - Score
+  - button
+  - options
+  - accuracy
+  - countdown
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - phonescreen
+  - phone
+  - sliderHandle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: puhelintausta
+    uniqueID: 1833658143
+    locked: 0
+  - name: canvas
+    uniqueID: 4130377885
+    locked: 0
+  - name: puhelin
+    uniqueID: 2652678019
+    locked: 0

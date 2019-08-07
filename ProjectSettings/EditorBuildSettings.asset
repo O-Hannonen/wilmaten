@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TypingTutorial.unity
+    guid: 6d20bdc8539daba4f92f9cb948f36ed9
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 77d337d35363ee64890f670a95444693
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 150d6461c8df3f049b378e613550fe24
+  - enabled: 1
+    path: Assets/Scenes/Mode1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: bf6625a29a16c1c4a8662ee07fd8f787
+  - enabled: 1
+    path: Assets/Scenes/options.unity
+    guid: a497d25cfc348ab46ba657c02534cc26
+  - enabled: 1
+    path: Assets/Scenes/Mode2.unity
+    guid: 26b89243dace3b348b396bbd3c910594
+  - enabled: 1
+    path: Assets/Scenes/Mode3.unity
+    guid: b21c5bfc96081ff48afd894453fbf1c7
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: 503794d5cc77113459e7752f0495ba9a
+  - enabled: 1
+    path: Assets/Scenes/Mode1Tutorial.unity
+    guid: 5162ca36728ce0643863c6af33e547cb
+  - enabled: 1
+    path: Assets/Scenes/Mode2Tutorial.unity
+    guid: 7f9debaba0d47f846abd00a3c0afdfed
+  - enabled: 1
+    path: Assets/Scenes/Mode3Tutorial.unity
+    guid: 6adc3343d5ddf8848ad24c9a903c9538
+  m_configObjects: {}
